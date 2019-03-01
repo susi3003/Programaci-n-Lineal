@@ -17,4 +17,5 @@ Aprendimos a usar la biblioteca Sympy
 ## Problemas
 
 Maximizar $$z=x_1+x_2$$ Sujeto a
+
 $$x_1\geq 0.$$
