@@ -2,6 +2,8 @@
 
 ## Página de programación lineal
 
+![Región factible](2.jpg)
+
 En esta página voy a mostrar las cosas magnificas que estoy aprendiendo en el sorprendente curso de Programación lineal
 
 ### Sympy
