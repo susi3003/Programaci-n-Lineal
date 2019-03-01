@@ -10,4 +10,4 @@ Aprendimos a usar la biblioteca Sympy
 
 - [Página de Python](https://www.python.org/)
 - [Página de Google](https://www.google.com/)
-- [Github(https://www.github.com)]
+- [Github](https://www.github.com)
